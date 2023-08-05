@@ -15,7 +15,7 @@ public class Main {
         for (int i = 0; i < Circle.length ; i++) {
             System.out.println(Circle[i].toString());
             System.out.println("The area of the circle "+(i + 1)+" is "+Circle[i].getArea());
-            System.out.println("The perimeter the of circle "+(i + 1)+" is "+Circle[i].getPerimeter());
+            System.out.println("The perimeter of the circle "+(i + 1)+" is "+Circle[i].getPerimeter());
         }*/
 
         //for Rectangle claas
